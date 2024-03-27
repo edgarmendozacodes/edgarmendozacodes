@@ -36,8 +36,7 @@ Tech Stack:
 <p> 
   <h2 align="center"> Metrics </h2>
 
-  https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmendozacodes&layout=compact
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmendozacodes&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmendozacodes&layout=donut)](https://github.com/edgarmendozacodes/github-readme-stats)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=edgarmendozacodes&show_icons=true&theme=transparent" />
+
 </p>
