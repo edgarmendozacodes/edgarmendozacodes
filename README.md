@@ -1,5 +1,5 @@
 <h2 align="center">Hi there👋, I'm Edgar </h1>
-<h3 align="center">I am a Full-Stack Developer </h3>
+<h3 align="center">Computing student - focused on cloud and networking </h3>
 
 -  🔭 I’m currently working on my ** Github Profile, a Finance Application, and a Wine Inventory Management Program 🤙🏽 **
   
